@@ -9,3 +9,4 @@ You are expected to create a Data Model based on the "Demand Data" dataset in or
 
 You should also provide step by step documentation on how to run your code. Our evaluators will be running your data models on a test dataset.  
 
+Both Traffic Management - Day Based Forecast and Traffic Management - Minute Based Forecast use sarimax based on tutorial from https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecasting-with-arima-in-python-3
